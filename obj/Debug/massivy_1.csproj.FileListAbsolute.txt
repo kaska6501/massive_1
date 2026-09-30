@@ -1,0 +1,7 @@
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\bin\Debug\massivy_1.exe.config
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\bin\Debug\massivy_1.exe
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\bin\Debug\massivy_1.pdb
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\obj\Debug\massivy_1.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\obj\Debug\massivy_1.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\obj\Debug\massivy_1.exe
+D:\Users\1213-4\Documents\2-ИСП\Абдурахманова\ОАиП\massivy_1\obj\Debug\massivy_1.pdb
