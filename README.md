@@ -1,1 +1,1 @@
-# massive_1
+#    одномерн массив, try parse
